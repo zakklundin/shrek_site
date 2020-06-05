@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+}
+
+p,
+li {
+    font-family: "Comic Sans MS"; 
+    font-size: 19px;
+}
+
+h1,
+h2,
+a {
+    font-family: "Comic Sans MS";
+}
+
+h1 {
+    font-weight: bolder;
+    text-decoration: underline overline;
+    text-decoration-style: wavy;
+    color: green;
+    font-style: italic;
+}
